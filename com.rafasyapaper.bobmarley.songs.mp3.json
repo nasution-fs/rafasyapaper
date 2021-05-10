@@ -5,8 +5,8 @@
 
 	"json_popup_wait" : "Server Ready . . . .",
 	
-	"mode_no_ads" : true,
-	"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+	"mode_no_ads" : false,
+	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 	
 	
 	"NOTE --->  mode list pengaturan iklan" :
@@ -29,15 +29,15 @@
 
     "ads_on_exit_dialog" : true,
 
-    "mode_offline_mp3" : false,
+    "mode_offline_mp3" : true,
 	"enable_sticky_notification" : true,
 
 
     "startapp" : "YOUR_APP_ID",
 
-    "admob_banner" : "ca-app-pub ADMOB",
-    "admob_inter" : "ca-app-pub ADMOB",
-    "admob_native" : "ca-app-pub ADMOB",
+    "admob_banner" : "ca-app-pub-4744201980468292/9359966531",
+    "admob_inter" : "ca-app-pub-4744201980468292/9906761447",
+    "admob_native" : "ca-app-pub-4744201980468292/9379954318",
 	
 	"hpk_alien" : "kuota data 30gb",
     "hpkadmob1" : "Kuota Data",
