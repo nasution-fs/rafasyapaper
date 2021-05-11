@@ -6,7 +6,7 @@
 	"json_popup_wait" : "Server Ready . . . .",
 	
 	"mode_no_ads" : false,
-	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
+	"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
 	
 	
 	"NOTE --->  mode list pengaturan iklan" :
@@ -24,7 +24,7 @@
 	
     "inter_count" : 5,
 
-    "enable_strap" : false,
+    "enable_strap" : true,
     "enable_strap_Splah" : false,
 
     "ads_on_exit_dialog" : true,
@@ -33,7 +33,7 @@
 	"enable_sticky_notification" : true,
 
 
-    "startapp" : "YOUR_APP_ID",
+    "startapp" : "204104147",
 
     "admob_banner" : "ca-app-pub-4744201980468292/9359966531",
     "admob_inter" : "ca-app-pub-4744201980468292/9906761447",
