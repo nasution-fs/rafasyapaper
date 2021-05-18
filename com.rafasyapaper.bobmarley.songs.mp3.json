@@ -1,7 +1,7 @@
 {
   "redirect" : [ {
 
-    "url_utama" : "file:///android_asset/music/playlist.html",
+    "url_utama" : "https://raw.githubusercontent.com/nasution-fs/rafasyapaper/main/com.rafasyapaper.bobmarley.songs.mp3.json",
 
 	"json_popup_wait" : "Server Ready . . . .",
 	
