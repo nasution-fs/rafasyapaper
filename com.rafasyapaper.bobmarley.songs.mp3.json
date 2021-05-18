@@ -5,7 +5,7 @@
 
 	"json_popup_wait" : "Server Ready . . . .",
 	
-	"mode_no_ads" : true,
+	"mode_no_ads" : false,
 	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 	
 	
@@ -18,9 +18,9 @@
 	4 Appodeal
 	",
 	
-	"pengaturan_iklan_banner": "1",
-	"pengaturan_iklan_inter": "1",
-	"pengaturan_iklan_native": "1",
+	"pengaturan_iklan_banner": "2",
+	"pengaturan_iklan_inter": "2",
+	"pengaturan_iklan_native": "2",
 	
     "inter_count" : 5,
 
