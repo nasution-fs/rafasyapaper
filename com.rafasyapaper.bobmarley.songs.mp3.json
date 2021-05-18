@@ -18,9 +18,9 @@
 	4 Appodeal
 	",
 	
-	"pengaturan_iklan_banner": "2",
-	"pengaturan_iklan_inter": "2",
-	"pengaturan_iklan_native": "2",
+	"pengaturan_iklan_banner": "1",
+	"pengaturan_iklan_inter": "1",
+	"pengaturan_iklan_native": "1",
 	
     "inter_count" : 5,
 
@@ -30,7 +30,7 @@
     "ads_on_exit_dialog" : true,
 
     "mode_offline_mp3" : true,
-	"enable_sticky_notification" : false,
+	"enable_sticky_notification" : true,
 
 
     "startapp" : "204104147",
