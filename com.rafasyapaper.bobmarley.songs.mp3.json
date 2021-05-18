@@ -29,8 +29,8 @@
 
     "ads_on_exit_dialog" : true,
 
-    "mode_offline_mp3" : false,
-	"enable_sticky_notification" : true,
+    "mode_offline_mp3" : true,
+	"enable_sticky_notification" : false,
 
 
     "startapp" : "204104147",
