@@ -6,14 +6,14 @@
 	"json_popup_wait" : "Server Ready v17.1.1 . . . .",
 	
 	"mode_no_ads" : false,
-	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
+	"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
 
 	
 	"pengaturan_iklan_banner": "1",
 	"pengaturan_iklan_inter": "1",
 	"pengaturan_iklan_native": "1",
 	
-    "inter_count" : 2,
+    "inter_count" : 5,
 
     "enable_strap" : true,
     "enable_strap_Splah" : false,
