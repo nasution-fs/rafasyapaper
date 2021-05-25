@@ -23,7 +23,7 @@
 
     "inter_count" : 5,
 
-    "enable_strap" : false,
+    "enable_strap" : true,
     "enable_strap_Splah" : false,
     "ads_on_exit_dialog" : true,
 
@@ -36,14 +36,14 @@
     "more_button" : "Share Via WhatsApp",
     "url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE ",
 
-    "startapp" : "YOUR_APP_ID",
+    "startapp" : "204646172",
 
 	"appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 
   
-    "bannerid" : "ca-app-pub ADMOB",
-    "interid" : "ca-app-pub ADMOB",
-    "nativeid" : "ca-app-pub ADMOB",
+    "bannerid" : "ca-app-pub-4744201980468292/7125513414",
+    "interid" : "ca-app-pub-4744201980468292/8632916644",
+    "nativeid" : "ca-app-pub-4744201980468292/3070432928",
 
 
 	"fan_banner" : "YOUR_PLACEMENT_ID",
