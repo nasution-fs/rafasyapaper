@@ -6,7 +6,7 @@
 	"json_popup_wait" : "Server Ready . . . .",
 
 
-	"mode_no_ads" : true,
+	"mode_no_ads" : false,
 	"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
 	
 	"mode list pengaturan iklan" :
