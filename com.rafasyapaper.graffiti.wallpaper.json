@@ -51,7 +51,7 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 
 "unity_banner_id" : "banner",
 "unity_inters_id" : "interstitial",
-"unity_id" : 4045251_salah,
+"unity_id" : 4056,
 "unity_test" : true,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
