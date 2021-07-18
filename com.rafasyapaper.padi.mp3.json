@@ -8,7 +8,7 @@
 
 
 "MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
 // mode pengaturan iklan
@@ -30,7 +30,7 @@
 "ads_on_exit_dialog" : true,
 
 "Mode_offline_mp3" : true,
-"Enable_Sticky_Notification" : false,
+"Enable_Sticky_Notification" : true,
 
 
 "STARAPPID" : "205875284",
