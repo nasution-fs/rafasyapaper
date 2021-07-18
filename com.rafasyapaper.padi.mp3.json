@@ -1,79 +1,73 @@
 {
-"redirect" : {
-
-"HOMEURL" : "file:///android_asset/music/playlist.html",
+  "redirect" : {
  
- // testing server json yang dipakai
-"Json_popup_Wait" : "Server Ready . . . v19j13",
+"json_popup_wait" : "Server Ready - v18j13",
+  
+"mode_no_ads" : false,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
 
+// Mode Iklan
+// 
+//  mode pengaturan iklan
+//  Mode ADMOB       Admob backup Unity Backup Startapp
+//  Mode FAN         FAN  backup Unity Backup Startapp
+//  Mode APPODEAL    Appodeal  backup Unity Backup Startapp
+//  Mode UNITY       Unity backup Startapp
+//  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
+//  Iklan native hanya bisa admob fan appodel
 
-"MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
+"pengaturan_iklan_banner" : "ADMOB",
+"pengaturan_iklan_inter" : "ADMOB",
+"pengaturan_iklan_native" : "ADMOB",
 
-
-// mode pengaturan iklan
-// Mode ADMOB       Admob Backup Unity Backup Startapp
-// Mode FAN         FAN backup Unity Backup Startapp
-// Mode APPODEAL    Appodeal backup Unity Backup Startapp
-// Mode UNITY       Unity backup Startapp
-// Mode APPLOVIN    Applovin backup Unity Backup Startapp
- // native hanya bisa admob fan appodeal
-"PENGATURAN_IKLAN_banner" : "ADMOB",
-"PENGATURAN_IKLAN_inter" : "ADMOB",
-"PENGATURAN_IKLAN_native" : "ADMOB",
-
-"INTER_COUNT" : 3,
+"inter_count" : 3,
 
 "enable_strap" : true,
-"enable_strap_SplahScreen" : false,
+"enable_strap_Splah" : false,
 
 "ads_on_exit_dialog" : true,
 
-"Mode_offline_mp3" : true,
-"Enable_Sticky_Notification" : true,
+"mode_offline_mp3" : true,
+"enable_sticky_notification" : true,
 
+"startapp" : "205875284",
 
-"STARAPPID" : "205875284",
-
-"ADMOB_BANNER" : "ca-app-pub-4744201980468292/4892446751",
-"ADMOB_INTER" : "ca-app-pub-4744201980468292/6866506424",
-"ADMOB_NATIV" : "ca-app-pub-4744201980468292/3837018403",
+"admob_banner" : "ca-app-pub-4744201980468292/4892446751",
+"admob_inter" : "ca-app-pub-4744201980468292/6866506424",
+"admob_native" : "ca-app-pub-4744201980468292/3837018403",
 
 "hpk_alien" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "Bank Jenius",
-"HPK_ADMOB3" : "Simpati",
-"HPK_ADMOB4" : "Telkomsel",
-"HPK_ADMOB5" : "Donasi",
+"hpkadmob1" : "Kuota Data",
+"hpkadmob2" : "Bank Jenius",
+"hpkadmob3" : "Simpati",
+"hpkadmob4" : "Telkomsel",
+"hpkadmob5" : "Donasi",
 
-"FAN_BANNER" : "YOUR_PLACEMENT_ID",
-"FAN_INTER" : "YOUR_PLACEMENT_ID",
-"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+"fan_banner" : "YOUR_PLACEMENT_ID",
+"fan_inter" : "YOUR_PLACEMENT_ID",
+"fan_native" : "YOUR_PLACEMENT_ID",
 
+"appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 
-"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+"unity_banner_id" : "banner",
+"unity_inters_id" : "interstitial",
+"unity_id" : 4045251,
+"unity_test" : true,
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4045251",
-"UNITY_TEST_MODE" : "false",
+"applovin_banner_id" : "YOUR_AD_UNIT_ID",
+"applovin_inters_id" : "YOUR_AD_UNIT_ID",
 
+"Button_Rating" : "Rating Sekarang",
+"Button_Share" : "Bagikan Ke Teman",
+"Button_Start" : "Mulai",
 
-"APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
-"APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
-
-"Button_Start" : "START",
-"Button_Share" : "SHARE TO FRIEND",
-"Button_Rating" : "RATING NOW",
-
-
-"Exit_Popup_Dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
-"Rate_Button" : "Rate 5 Stars",
-"Later_Button" : "Rate Later",
+"exit_popup_dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
+"rate_button" : "Rating 5 Bintang",
+"later_button" : "Rating Nanti",
 "enable_Share_button" : true,
-"Share_TXT" : "Supperr APPS Download Now",
-"More_Button" : "Share Via WhatsApp",
-"Url_More_Apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE"
+"Share_TXT" : "Aplikasi Keren banget, aku udah nyobain, coba download juga pasti kamu juga seneng ",
+"more_button" : "Share Via WhatsApp",
+"url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE "
 
   }
 }
