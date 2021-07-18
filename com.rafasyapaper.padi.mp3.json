@@ -7,7 +7,7 @@
 "Json_popup_Wait" : "Server Ready . . . v19j13",
 
 
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
@@ -58,8 +58,8 @@
 "UNITY_GAME_ID" : "4045251",
 "UNITY_TEST_MODE" : "true",
 
-"APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
-"APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
+"APPLOVIN_BANNER_ID" : "71f5faf4df08917c_salah",
+"APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc_salah",
 
 "Button_Start" : "START",
 "Button_Share" : "SHARE TO FRIEND",
