@@ -5,8 +5,8 @@
 
 	"json_popup_wait" : "Server Ready v17.1.1 . . . .",
 	
-	"mode_no_ads" : false,
-	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
+	"mode_no_ads" : true,
+	"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
 
 	
 	"pengaturan_iklan_banner": "1",
@@ -24,11 +24,11 @@
 	"enable_sticky_notification" : true,
 
 
-    "startapp" : "204327641",
+    "startapp" : "204327641_salah",
 
-    "admob_banner" : "ca-app-pub-4744201980468292/9591593338",
-    "admob_inter" : "ca-app-pub-4744201980468292/3956123277",
-    "admob_native" : "ca-app-pub-4744201980468292/7703796591",
+    "admob_banner" : "ca-app-pub-4744201980468292/9591593338_salah",
+    "admob_inter" : "ca-app-pub-4744201980468292/3956123277_salah",
+    "admob_native" : "ca-app-pub-4744201980468292/7703796591_salah",
 	
 	"hpk_alien" : "kuota data 30gb",
     "hpkadmob1" : "Kuota Data",
