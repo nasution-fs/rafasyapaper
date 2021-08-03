@@ -24,11 +24,11 @@
 	"enable_sticky_notification" : true,
 
 
-    "startapp" : "204104147_salah",
+    "startapp" : "204104147",
 
-    "admob_banner" : "ca-app-pub-4744201980468292/9359966531_salah",
-    "admob_inter" : "ca-app-pub-4744201980468292/9906761447_salah",
-    "admob_native" : "ca-app-pub-4744201980468292/9379954318_salah",
+    "admob_banner" : "ca-app-pub-4744201980468292/9359966531",
+    "admob_inter" : "ca-app-pub-4744201980468292/9906761447",
+    "admob_native" : "ca-app-pub-4744201980468292/9379954318",
 	
 	"hpk_alien" : "kuota data 30gb",
     "hpkadmob1" : "Kuota Data",
