@@ -7,7 +7,7 @@
 "Json_popup_Wait" : "Server Ready . . . v19j13",
 
 
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
 
 
@@ -35,8 +35,8 @@
 
 "STARAPPID" : "201365479",
 
-"ADMOB_BANNER" : "ca-app-pub-",
-"ADMOB_INTER" : "ca-app-pub-",
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
 "ADMOB_NATIV" : "ca-app-pub-",
 
 "hpk_alien" : "kuota data 30gb",
