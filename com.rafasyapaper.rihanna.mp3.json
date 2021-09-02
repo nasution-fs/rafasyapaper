@@ -20,7 +20,7 @@
 
     "ads_on_exit_dialog" : true,
 
-    "mode_offline_mp3" : false,
+    "mode_offline_mp3" : true,
 	"enable_sticky_notification" : true,
 
 
