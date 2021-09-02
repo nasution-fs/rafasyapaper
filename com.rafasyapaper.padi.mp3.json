@@ -49,12 +49,12 @@
 	
 	"unity_banner_id" : "banner",
 	"unity_inters_id" : "interstitial",
-	"unity_id" : "4045251",
+	"unity_id" : "4045251_salah",
 	"unity_test" : "true",
 	
 	
-	"applovin_banner_id" : "71f5faf4df08917c",
-	"applovin_inters_id" : "4711e1718612d7dc",
+	"applovin_banner_id" : "71f5faf4df08917c_salah",
+	"applovin_inters_id" : "4711e1718612d7dc_salah",
 
     
     "exit_popup_dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
